@@ -1,19 +1,19 @@
-# [Job Portal Using React](https://jobportal-react.vercel.app/)  
-Your one-stop solution for seamless job management and application tracking! 🌟  
+# [Employee Management System](https://jobportal-react.vercel.app/)  
+A comprehensive solution for managing employee data, tasks, and performance tracking! 🌟  
 
 ---  
 
 ## ✨ Features  
 
 ### 🔒 Role-based Login  
-- Separate portals for **Admins** and **Job Seekers**.  
+- Separate portals for **Admins** and **Employees**.  
 
-### 📋 Job Management  
-- **Admins** can post and manage job listings.  
-- **Job Seekers** can explore and apply for exciting opportunities.  
+### 👩‍💻 Employee Management  
+- **Admins** can add, update, and manage employee details, roles, and departments.  
+- **Employees** can view and update their personal information and track their tasks.  
 
-### 📈 Application Tracking  
-- Admins can track applications and manage the recruitment process efficiently.  
+### 📊 Task and Performance Tracking  
+- Admins can assign tasks to employees and track their progress and performance.  
 
 ### 📱 Responsive Design  
 - Enjoy a smooth experience across desktop and mobile devices.  
@@ -28,12 +28,12 @@ Below are the default login credentials to access the application:
 - **Email**: `admin@example.com`  
 - **Password**: `123`  
 
-### 👨‍💼 Job Seeker Logins  
+### 👨‍💼 Employee Logins  
 
-**User 1:**  
-- **Email**: `user1@example.com`  
+**Employee 1:**  
+- **Email**: `employee1@example.com`  
 - **Password**: `123`  
 
-**User 2:**  
-- **Email**: `user2@example.com`  
+**Employee 2:**  
+- **Email**: `employee2@example.com`  
 - **Password**: `123`  
